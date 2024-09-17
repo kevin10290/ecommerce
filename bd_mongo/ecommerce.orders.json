@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "66e8d41cfb6c2e1408b19782"
+  },
+  "usuarioId": {
+    "$oid": "66e8d41cfb6c2e1408b19780"
+  },
+  "productos": [
+    {
+      "productoId": {
+        "$oid": "66e8d41cfb6c2e1408b19781"
+      },
+      "nombre": "Camiseta de algodón",
+      "cantidad": 2,
+      "precio": 19.99
+    }
+  ],
+  "total": 39.98,
+  "fecha": {
+    "$date": "2024-09-15T12:34:56.000Z"
+  },
+  "estado": "pendiente",
+  "direcciónEnvío": {
+    "calle": "Calle 456",
+    "ciudad": "Santiago",
+    "códigoPostal": "67890"
+  }
+}]

@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "66e8d41cfb6c2e1408b19780"
+  },
+  "nombre": "Juan Pérez",
+  "email": "juan.perez@example.com",
+  "contraseña": "hashed_password",
+  "fechaRegistro": {
+    "$date": "2024-09-15T12:34:56.000Z"
+  },
+  "rol": "cliente",
+  "direcciones": [
+    {
+      "calle": "Calle 123",
+      "ciudad": "Santiago",
+      "codigoPostal": "12345"
+    }
+  ]
+}]

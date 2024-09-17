@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "66e8d41cfb6c2e1408b19781"
+  },
+  "nombre": "Camiseta de algodón",
+  "descripción": "Camiseta de algodón 100% de alta calidad",
+  "precio": 19.99,
+  "categoría": "camisetas",
+  "tallas": [
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "imágenes": [
+    "https://example.com/camiseta1.jpg",
+    "https://example.com/camiseta2.jpg"
+  ],
+  "stock": 100
+}]

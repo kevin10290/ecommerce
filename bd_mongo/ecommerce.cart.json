@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "66e8d41cfb6c2e1408b19784"
+  },
+  "usuarioId": {
+    "$oid": "66e8d41cfb6c2e1408b19780"
+  },
+  "productos": [
+    {
+      "productoId": {
+        "$oid": "66e8d41cfb6c2e1408b19781"
+      },
+      "nombre": "Camiseta de algodón",
+      "cantidad": 1,
+      "precio": 19.99
+    }
+  ]
+}]
